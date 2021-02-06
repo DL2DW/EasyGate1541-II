@@ -6,6 +6,26 @@ I have currently implemented only the required routines for the 1541-**II**. The
 
 
 
+## Status
+
+![](https://github.com/DL2DW/EasyGate1541-II/blob/main/Images/First_Test.jpg)
+
+
+
+The code is ready so far, and works already in the 1541-II. 
+
+Currently I am waiting for the first prototype boards. Unfortunately I had chosen FedEx as supplier this time. And they don't seem to want to leave China for over a week and finally deliver. According to tracking it could take another 2 weeks.
+
+And no, it's not because of the Chinese New Year, because later shipped boards with EuroPacket have already been delivered.
+
+Well, there you pay once more and get once again significantly less... :-) 
+
+
+
+I have been asked several times now if I would extend the code for the 1571. Theoretically this is possible, but practically I don't have a 1571, so I can neither test it nor make any adjustments.
+
+
+
 # License
 
 The contents of this repository is released under the following license:
