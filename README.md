@@ -47,7 +47,7 @@ Except for the CPLD, comparison types can also be taken.
 | No#  | Designator | Part                            | Description                                |
 | ---- | ---------- | ------------------------------- | ------------------------------------------ |
 | 1    | U1         | MaxLinear SPX5205M5-L-3-3/TR    | Voltage regulator SOT-23-5                 |
-| 2    | U2         | Xilinx XC9572XL-10VQG44C        | CPLD VQFP-44                               |
+| 2    | U2         | Xilinx XC9572XL-10VQG64C        | CPLD VQFP-64                               |
 | 3    | D1         | Everlight 25-21/GHC-YSU/2A      | LED green, 1206                            |
 | 4    | D2         | Everlight 25-21/BHC-XR2S1/2A    | LED blue, 1206                             |
 | 5    | D3, D5     | Everlight 25-21/T1D-ANQHY/2A    | LED white, 1206                            |
