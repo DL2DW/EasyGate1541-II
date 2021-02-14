@@ -52,8 +52,8 @@ Except for the CPLD, comparison types can also be taken.
 | 4    | D2         | Everlight 25-21/BHC-XR2S1/2A    | LED blue, 1206                             |
 | 5    | D3, D5     | Everlight 25-21/T1D-ANQHY/2A    | LED white, 1206                            |
 | 6    | D4         | Everlight 25-21SURC/S530-A4/TR8 | LED red, 1206                              |
-| 7    | C1 - C3    | Kemet C0603C104J4RACTU          | Capacitor, 100nF, 16V, X7R, 0603           |
-| 8    | C4, C5     | Kemet C0805C106J8RACAUTO        | Capacitor, 10µF, 10V, X7R, 0805            |
+| 7    | C3 - C6    | Kemet C0603C104J4RACTU          | Capacitor, 100nF, 16V, X7R, 0603           |
+| 8    | C1, C2     | Kemet C0805C106J8RACAUTO        | Capacitor, 10µF, 10V, X7R, 0805            |
 | 9    | R1 - R5    | Yageo SR0603FR-7T1KL            | Resistor, 1k, 1%, 1/4W, 0603               |
 | 10   | CN1, CN2   | Mill-Max 800-10-020-10-002000   | Pin Header, 20pin, precision, Pitch 2.54mm |
 
@@ -70,6 +70,14 @@ I can only perform rudimentary tests. After all, this is a hobby project. To buy
 Therefore I would be pleased about feedback, if known "more sensitive" programs and hardware also run with the EasyGate1541-II.
 
 Of course, I would also appreciate feedback if something doesn't run. Then this can be analyzed together if necessary.
+
+
+
+## PCB
+
+The PCB can either be ordered directly from [PCBWay](https://www.pcbway.com/project/shareproject/EasyGate1541_II.html), or you can create it yourself from the Gerber files available here.
+
+[![PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)](https://www.pcbway.com/project/shareproject/EasyGate1541_II.html)
 
 
 
