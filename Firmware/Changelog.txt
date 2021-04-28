@@ -1,0 +1,6 @@
+Date: 2021-02-14
+Version 1.00	-		First Release
+
+Date: 2021-04-28
+1.01	-	BUGFIX	Due to an error in the stepper motor control, 
+			the motor can overheat. It is strongly recommended to install this update.
